@@ -1,0 +1,2 @@
+# HalToStdTest
+测试AI将stm32的hal库转换为std标准库
